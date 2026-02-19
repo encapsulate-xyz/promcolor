@@ -10,7 +10,7 @@ Browser extension: [prometheus-formatter](https://github.com/fhemberger/promethe
 Download the latest [release](https://github.com/fhemberger/promcolor/releases). Or if you have Go installed:
 
 ```sh
-go install github.com/fhemberger/promcolor@latest
+go install github.com/encapsulate-xyz/promcolor@master
 ```
 
 ## Usage
