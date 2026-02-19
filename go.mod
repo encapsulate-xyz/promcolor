@@ -1,3 +1,3 @@
-module github.com/fhemberger/promcolor
+module github.com/encapsulate-xyz/promcolor
 
 go 1.16
