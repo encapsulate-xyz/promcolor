@@ -36,7 +36,7 @@ var (
 	CommentColor    = White
 	LabelKeyColor   = Blue
 	LabelValueColor = Green
-	MetricColor     = BrightWhite
+	MetricColor     = Black
 	ValueColor      = Magenta
 )
 
