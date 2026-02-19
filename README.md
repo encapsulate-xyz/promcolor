@@ -18,6 +18,9 @@ go install github.com/encapsulate-xyz/promcolor@master
 ```sh
 curl http://127.0.0.1:9100/metrics | promcolor
 ```
+```sh
+cat metrics.txt | promcolor
+```
 
 
 ## License
